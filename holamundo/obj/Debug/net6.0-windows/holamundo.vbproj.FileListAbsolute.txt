@@ -1,0 +1,17 @@
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\bin\Debug\net6.0-windows\holamundo.exe
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\bin\Debug\net6.0-windows\holamundo.deps.json
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\bin\Debug\net6.0-windows\holamundo.runtimeconfig.json
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\bin\Debug\net6.0-windows\holamundo.dll
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\bin\Debug\net6.0-windows\holamundo.pdb
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.vbproj.AssemblyReference.cache
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.Form1.resources
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.vbproj.GenerateResource.cache
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.AssemblyInfoInputs.cache
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.AssemblyInfo.vb
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.vbproj.CoreCompileInputs.cache
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.dll
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\refint\holamundo.dll
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.pdb
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\holamundo.genruntimeconfig.cache
+C:\Users\alfredo.arambula\source\repos\holamundo\holamundo\obj\Debug\net6.0-windows\ref\holamundo.dll
